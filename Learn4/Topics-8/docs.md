@@ -10,5 +10,12 @@
 1. int x = 1; float x = 1.1F; long double x = 1.1L; etc. this variable value not constants ,it will be change any time to call this variable names;
 2. const int x = 1; const float x = 1.1F; const long doube x = 1.1; this variable is constanst value its not change value and if call const variable name second time it will be show problem or say error.  
 
-*** " setw " manupalator from <iomanip> ok now some explain them >>>
-setw is a manupalator it set the variable value width .it set value width or you say lenght on output. if you take 3 digit number and you set setw value 5 on run time it will take 2 extra space before the 3 digits. 
+*** " setw " manipulator from <iomanip> ok now some explain them >>>
+setw is a manipulator it set the variable value width .it set value width or you say lenght on output. if you take 3 digit number and you set setw value 5 on run time it will take 2 extra space before the 3 digits. 
+
+*** "Operators precedence" means first rights of operator. (e.g.)>>>
+1. (3 * 4) + 35 - 3 there is the precedence is 3 & 4 multiplecation.  
+2. (3 + 4) * 35 - 3 there is the precedence is 3 & 4 addition.
+
+*** "Operators Associativity" means after the opearator precedence  the first priority . In associativity count on left to right (refereance by cpp docs.).(e.g.)>>>
+1. (( 2 + 3 ) * 3 ) + 4 - 5 there precedence is (2 + 3) then second priority/associativity is ((2 + 3) * 3). repetly fellow this process. 
