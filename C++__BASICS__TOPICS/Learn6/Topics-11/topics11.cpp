@@ -5,6 +5,7 @@ int main()
 {
     // for (int i = 1; i <= 10; i++)
     // {
+    // break statements
     // output: 2
     // if (i == 2)
     // {
@@ -28,14 +29,15 @@ int main()
     // };
     // }
 
-    for (int i = 1; i <= 10; i++)
-    {
-        if (i == 1)
-        {
-            continue;
-        }
-        cout << i << endl;
-    };
+    // continue statements
+    // for (int i = 1; i <= 10; i++)
+    // {
+    //     if (i == 1)
+    //     {
+    //         continue;
+    //     }
+    //     cout << i << endl;
+    // };
 
     return 0;
 };

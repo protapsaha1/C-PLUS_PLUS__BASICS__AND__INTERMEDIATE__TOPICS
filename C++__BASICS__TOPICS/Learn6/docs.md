@@ -52,8 +52,24 @@ output: 2,3,4,5,6,7,8,9,10
 When we use "continue" statement in loop the compiler will skip the true conditional value and exicute other values.In  here the loop "if" condition is "i" equal "1" and "if" statement is "contunue" for this cause compiler skip the value "i" equal "1" and continued the loop.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+-----------------------topics 12-------------------------------
+Pointer:
+What is pointers ?
+pointer is a data-types which holds address of others data-types.
 
-                                            -----------------------topics 11-------------------------------
+
+
+
+
+
+
+
+
+
+
+
+### Bangla
+-----------------------topics 11-------------------------------
 *** ব্রেক স্টেটমেন্ট:
 বিরতি বিবৃতিটি নিকটতম এনক্লোসিং লুপ বা শর্তসাপেক্ষ বিবৃতি যেখানে এটি প্রদর্শিত হয় তার সম্পাদন শেষ করে। কন্ট্রোল পাস সেই স্টেটমেন্টের কাছে যায় যা স্টেটমেন্টের শেষে অনুসরণ করে, যদি থাকে।
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
